@@ -1,0 +1,12 @@
+#BlueJ class context
+comment0.target=Catcher
+comment1.params=
+comment1.target=void\ act()
+comment1.text=\r\n\ \r\n\ act\ -\ things\ you\ want\ to\ do\ each\ time\ around\ go\ in\ here\r\n\ \r\n\ \r\n
+comment2.params=
+comment2.target=void\ checkKeys()
+comment2.text=\r\n\ check\ keys\ checks\ if\ the\ user\ pressed\ any\ keys,\ if\ any\ of\ the\ arrow\ keys\ \r\n\ are\ pressed,\ the\ catcher\ moves\ the\ corrsponding\ way\r\n\ \r\n\ \ \ \ *\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+comment3.params=
+comment3.target=void\ checkForLeaf()
+comment3.text=\r\n\ checkForLeaf\ checks\ if\ the\ Catcehr\ caught\ any\ leaves,\ if\ they\ did,\ remove\ the\ leaf\ from\ the\ world\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=4

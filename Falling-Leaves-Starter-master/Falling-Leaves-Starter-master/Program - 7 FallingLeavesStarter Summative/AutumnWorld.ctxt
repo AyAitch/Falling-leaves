@@ -1,0 +1,19 @@
+#BlueJ class context
+comment0.target=AutumnWorld
+comment0.text=\r\n\ Write\ a\ description\ of\ class\ FallWorld\ here.\r\n\ \r\n\ @author\ (your\ name)\ \r\n\ @version\ (a\ version\ number\ or\ a\ date)\r\n
+comment1.params=
+comment1.target=AutumnWorld()
+comment1.text=\r\n\ Constructor\ for\ objects\ of\ class\ FallWorld.\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returnes\r\n
+comment2.params=
+comment2.target=void\ update()
+comment2.text=\ add\ the\ update\ for\ score\ board\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returnes\r\n
+comment3.params=
+comment3.target=void\ act()
+comment3.text=\r\n\ act\ -\ things\ you\ want\ to\ do\ each\ time\ around\ go\ in\ here\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returnes\r\n
+comment4.params=
+comment4.target=void\ addCatcher()
+comment4.text=\r\n\ addCatcher\ adds\ a\ catcher\ to\ the\ world\r\n\ \r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returnes\r\n
+comment5.params=
+comment5.target=void\ addLeaves()
+comment5.text=\r\n\ addLeaves\ adds\ leaves\ to\ the\ world\ during\ the\ game\r\n\ @param\ There\ are\ no\ parameters\r\n\ @return\ Nothing\ is\ returned\r\n
+numComments=6
